@@ -7,8 +7,8 @@
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "https://hello-example.blogspot.com/?utm_source=homescreen",
-  "scope": "https://hello-example.blogspot.com/",
+  "start_url": "https://www.modsmatrix.com/?utm_source=homescreen",
+  "scope": "https://www.modsmatrix.com/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -116,10 +116,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "name": "Cookies",
+      "short_name": "Cookies",
+      "description": "Latest Updated Cookies...",
+      "url": "https://www.modsmatrix.com/search/label/_Cookies?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -128,10 +128,10 @@
       ]
     },
     {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "name": "Templates",
+      "short_name": "Templates",
+      "description": "Latest Updated wordpress and blogger templates",
+      "url": "https://www.modsmatrix.com/search/label/_Templates?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
