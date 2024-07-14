@@ -18,16 +18,16 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
-      description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      name: 'Cookies',
+      shortName: 'Cookies',
+      description: 'Latest Updated Cookies...',
+      url: '/search/label/_Cookies?utm_source=homescreen',
     },
     {
-      name: 'Shortcut 2',
-      shortName: 'Shortcut 2',
-      description: 'Shortcut 2 description goes here...',
-      url: '/search/label/shortcut-2?utm_source=homescreen',
+      name: 'Templates',
+      shortName: 'Templates',
+      description: 'Latest Updated wordpress and blogger templates',
+      url: '/search/label/_Templates?utm_source=homescreen',
     },
   ],
   pwa: {
@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.modsmatrix.com',
 } satisfies Config;
