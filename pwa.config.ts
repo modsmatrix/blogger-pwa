@@ -4,7 +4,7 @@ export default {
   version: '1.0',
   id: '/',
   name: 'MODs Matrix',
-  shortName: 'MODsMatrix',
+  shortName: 'MODs Matrix',
   description: 'Daily Updated Cookies & Templates',
   direction: 'auto',
   language: 'en-US',
